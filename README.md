@@ -9,4 +9,3 @@
     <img src="https://img.shields.io/badge/mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="mail"/>
   </a>
     </div>
-[![Test](https://github.com/glekomtsev/autotests-java-selenide-rest-assure/actions/workflows/test.yaml/badge.svg?branch=master)](https://github.com/glekomtsev/autotests-java-selenide-rest-assure/actions/workflows/test.yaml)
