@@ -60,7 +60,7 @@
 >- Отправка результатов в Telegram 📱
 >- Экспорт результатов HTML, XML, JSON 💻
 
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
+<p align="center" style="display: flex; justify-content: space-beetwen; align-items: center;">
   <img src="images/screens/AllureReportMain.png" alt="AllureReportMain" style="width: 50%;">
   <img src="images/screens/AllureReportSuites.png" alt="AllureReportSuites" style="width: 50%;">
 </p>
