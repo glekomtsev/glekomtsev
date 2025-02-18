@@ -53,14 +53,8 @@ Selenide, RestAssured, Jenkins, Allure. Успешно интегрирую те
 # <a name="AllureReport">Отчет о результатах тестов в Allure Report</a>
 
 ## Main page
-Main page of Allure report contains the following blocks:
+Создание профессиональных Allure-отчетов позволяет бизнесу получать наглядную визуализацию качества продукта и эффективности тестирования, что значительно повышает доверие к выпускаемым версиям.
 
-<p align="center">
-  <img src="images/screens//AllureReportMain.png" alt="AllureReportMain" width="450">
-  <img src="images/screens/AllureReportSuites.png" alt="AllureReportSuites" width="450">
-</p>
-
-## List of tests with steps and test artefacts
 Список тестов, сгруппированных по сьютам, с отображением статуса каждого теста. \
 Для каждого теста доступна полная информация: теги, приоритет, уровень серьезности, длительность, детальные шаги выполнения.
 
@@ -70,7 +64,8 @@ Main page of Allure report contains the following blocks:
 >- Отправка результатов в Telegram 📱
 >- Экспорт результатов HTML, XML, JSON 💻
 
-<p align="left">
-  <img src="images/screens/AllureReportSuites2.png" alt="AllureReportSuites2" width="950">
+<p align="center">
+  <img src="images/screens//AllureReportMain.png" alt="AllureReportMain" width="450">
+  <img src="images/screens/AllureReportSuites.png" alt="AllureReportSuites" width="450">
 </p>
 
