@@ -1,3 +1,9 @@
+###
+
+<h1 align="center">Привет👋 Меня зовут Глеб!</h1>
+
+###
+
 <div id="header" align="center">
   <div id="badges" >
     <a href="https://t.me/glekomtsev">
@@ -9,7 +15,23 @@
   </div>
 </div>
 
-# <a name="Technology">Tools and a technologies</a>
+###
+
+<h3 align="left">🙂 Обо мне</h3>
+
+###
+
+<p align="left">Глеб, 27 лет. QA Automation Engineer Java с более чем 2-летним опытом разработки и
+поддержки автоматизированных тестов для веб-приложений (UI и API) на стеке: Java, JUnit 5,
+Selenide, RestAssured, Jenkins, Allure. Успешно интегрирую тесты в CI/CD процессы,
+обеспечивая стабильность и качество продукта на всех этапах разработки. Так же имею
+опыт ручного тестирования. Постоянно развиваюсь в сфере IT, увлечен технологиями и
+поиском эффективных решений. Нахожусь в поиске нового интересного проекта, где смогу
+применить свои навыки и внести вклад в развитие продукта! 
+  
+###
+
+<h3 align="left">🛠 Технологии автотестирования:</h3>
 
 <p  align="center">
   <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
@@ -24,18 +46,6 @@
   <code><img width="5%" title="Github" src="./images/icons/git-logo.svg"></code>
   <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
   <code><img width="5%" title="Jira" src="./images/icons/jira-logo.svg"></code>
-
-
-The autotests in this project are written in `Java` using `Selenide` framework.\
-`Gradle` - is used as a build automation tool. \
-`JUnit5` - to execute tests.\
-`REST Assured` - for easy API testing of REST services.\
-`Jenkins` - CI/CD for running tests remotely.\
-`Selenoid` - to remote launching browsers in `Docker` containers.\
-`Allure Report` - for test results visualisation.\
-`Allure TestOps` - as Test Management System.
-
-[Back to the table of contents ⬆](#TableOfContents)
 
 
 # <a name="AllureReport">Test results report in [Allure Report](https://jenkins.autotests.cloud/job/C12-vyach_son-bookmate_test/47/allure/)</a>
