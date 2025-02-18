@@ -31,7 +31,7 @@ Selenide, RestAssured, Jenkins, Allure. Успешно интегрирую те
   
 ###
 
-<h3 align="left">🛠 Технологии автотестирования:</h3>
+<h3 align="center">🛠 Технологии автотестирования:</h3>
 
 <p  align="center">
   <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
@@ -50,7 +50,7 @@ Selenide, RestAssured, Jenkins, Allure. Успешно интегрирую те
   <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
 </p>
 
-<h3 align="left"> Отчеты о результатах тестов в Allure Report</h3>
+<h3 align="center">📈 Отчеты о результатах тестов в Allure Report</h3>
 Создание профессиональных Allure-отчетов позволяет бизнесу получать наглядную визуализацию качества продукта и эффективности тестирования, что значительно повышает доверие к выпускаемым версиям.
 
 Список тестов, сгруппированных по сьютам, с отображением статуса каждого теста. \
