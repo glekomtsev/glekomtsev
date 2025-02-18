@@ -8,7 +8,9 @@
     </a>
   </div>
 </div>
+
 # <a name="Technology">Tools and a technologies</a>
+
 <p  align="center">
   <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
   <code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
