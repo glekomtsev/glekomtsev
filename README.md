@@ -46,7 +46,9 @@ Selenide, RestAssured, Jenkins, Allure. Успешно интегрирую те
   <code><img width="5%" title="Github" src="./images/icons/git-logo.svg"></code>
   <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
   <code><img width="5%" title="Jira" src="./images/icons/jira-logo.svg"></code>
-
+  <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
+  <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
+</p>
 
 # <a name="AllureReport">Test results report in [Allure Report](https://jenkins.autotests.cloud/job/C12-vyach_son-bookmate_test/47/allure/)</a>
 
