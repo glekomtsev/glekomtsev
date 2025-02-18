@@ -50,36 +50,27 @@ Selenide, RestAssured, Jenkins, Allure. Успешно интегрирую те
   <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
 </p>
 
-# <a name="AllureReport">Test results report in [Allure Report](https://jenkins.autotests.cloud/job/C12-vyach_son-bookmate_test/47/allure/)</a>
+# <a name="AllureReport">Отчет о результатах тестов в Allure Report</a>
 
 ## Main page
 Main page of Allure report contains the following blocks:
 
->- <code><strong>*ALLURE REPORT*</strong></code> - displays date and time of the test, overall number of launched tests, а также диаграмму с указанием процента и количества успешных, упавших и сломавшихся в процессе выполнения тестов
->- <code><strong>*TREND*</strong></code> - displays trend of running tests for all runs
->- <code><strong>*SUITES*</strong></code> - displays distribution of tests by suites
->- <code><strong>*CATEGORIES*</strong></code> - displays distribution of unsuccessful tests by defect types
 <p align="center">
-  <img src="images/screens//AllureReportMain.png" alt="AllureReportMain" width="950">
+  <img src="images/screens//AllureReportMain.png" alt="AllureReportMain" width="450">
+  <img src="images/screens/AllureReportSuites.png" alt="AllureReportSuites" width="450">
 </p>
 
 ## List of tests with steps and test artefacts
-On the page the list of the tests grouped by suites with status shown for each test.\
-Full info about each test can be shown: tags, severity, duration, detailed steps.
+Список тестов, сгруппированных по сьютам, с отображением статуса каждого теста. \
+Для каждого теста доступна полная информация: теги, приоритет, уровень серьезности, длительность, детальные шаги выполнения.
 
-<p align="center">
-  <img src="images/screens/AllureReportSuites.png" alt="AllureReportSuites" width="1150">
-</p>
-
-Also additional test artifacts are available:
->- Screenshot
->- Page Source
->- Video
->- Browserstack full info link
+А так же дополнительные артефакты:
+>- Скриншоты ошибок в UI тестах 🖼️
+>- Видео выполнения тестов UI тестов 🎥
+>- Отправка результатов в Telegram 📱
+>- Экспорт результатов HTML, XML, JSON 💻
 
 <p align="left">
   <img src="images/screens/AllureReportSuites2.png" alt="AllureReportSuites2" width="950">
 </p>
-
-[Back to the table of contents ⬆](#TableOfContents)
 
